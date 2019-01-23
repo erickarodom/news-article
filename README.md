@@ -1,3 +1,5 @@
+#news-article
+
 This was my first project while attending CodeTalk frontend developement bootcamp. 
 
 The primary purpose of this assignment was to practice semantic HTML, basic CSS and practice CSS layout using the float property.
